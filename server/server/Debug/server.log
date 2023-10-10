@@ -1,0 +1,15 @@
+﻿  Source.cpp
+E:\4 сем лабы\Курсач\server\server\Source.cpp(17,7): warning C4101: res: неиспользованная локальная переменная
+E:\4 сем лабы\Курсач\server\server\Source.cpp(43,7): warning C4101: t: неиспользованная локальная переменная
+E:\4 сем лабы\Курсач\server\server\Source.cpp(447,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(453,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(466,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(486,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(492,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(505,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(735,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(737,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(749,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(751,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\4 сем лабы\Курсач\server\server\Source.cpp(213): warning C4715: Matrix::getElement: значение возвращается не при всех путях выполнения
+  server.vcxproj -> E:\4 сем лабы\Курсач\server\Debug\server.exe

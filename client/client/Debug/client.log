@@ -1,0 +1,10 @@
+﻿  client.cpp
+E:\4 сем лабы\Курсач\client\client\Header.h(30,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\client\client\Header.h(32,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\client\client\Header.h(34,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\client\client\Check.h(92,20): warning C4018: >: несоответствие типов со знаком и без знака
+E:\4 сем лабы\Курсач\client\client\client.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\4 сем лабы\Курсач\client\client\client.cpp(508,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\4 сем лабы\Курсач\client\client\client.cpp(106,15): warning C4101: num: неиспользованная локальная переменная
+E:\4 сем лабы\Курсач\client\client\client.cpp(659,15): warning C4101: num: неиспользованная локальная переменная
+  client.vcxproj -> E:\4 сем лабы\Курсач\client\Debug\client.exe
